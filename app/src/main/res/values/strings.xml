@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidTest</string>
     <string name="hello_title">こんにちは」Android!</string>
+    <string name="change_text_btn">Change text</string>
 </resources>
